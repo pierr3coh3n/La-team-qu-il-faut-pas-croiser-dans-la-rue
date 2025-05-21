@@ -1,0 +1,32 @@
+<p>&nbsp;</p>
+<p>La Team Improbable</p>
+<nav>
+<ul>
+<li><a href="#chien">Le chien &eacute;colier</a></li>
+<li><a href="#chimpanze">Le chimpanz&eacute; fou</a></li>
+<li><a href="#girafe">La girafe astucieuse</a></li>
+<li><a href="#vache">La vache circoncise</a></li>
+<li><a href="#cheval">Le cheval suspicieux</a></li>
+</ul>
+</nav>
+<h1>La team qu'il faut pas croiser dans la rue</h1>
+<section id="chien">
+<h2 class="En_bleu">Le chien &eacute;colier 😱😱😨</h2>
+<p><img src="https://uploads.dailydot.com/2024/11/silly-dog-in-a-propeller-hat-meme-template.jpg?auto=compress&amp;fm=pjpg" alt="Le chien &eacute;colier" width="500" height="300" /></p>
+</section>
+<section id="chimpanze">
+<h2 class="En_bleu">Le chimpanz&eacute; t&eacute;n&eacute;breux 💀😨😨🔪🔪</h2>
+<p><img src="https://x-memes.com/storage/medias/GJM6OKlimEPddOHFrs695PQ9ajtexB7yUwzIbDyy.jpg" alt="Le chimpanz&eacute; t&eacute;n&eacute;breux" width="500" height="300" /></p>
+</section>
+<section id="girafe">
+<h2 class="En_bleu">La girafe astucieuse 🧠🦒🧑&zwj;🔬</h2>
+<p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTVW-oETXcOyoBSxSnjwj2CbvY8-RBfUGebw&amp;s" alt="La girafe astucieuse" width="500" height="300" /></p>
+</section>
+<section id="vache">
+<h2 class="En_bleu">La vache circoncise 😈😈👺🐄</h2>
+<p><img src="https://cdn.pixabay.com/photo/2017/10/28/06/48/cow-2896329_1280.jpg" alt="La vache circoncise" width="500" height="300" /></p>
+</section>
+<section id="cheval">
+<h2 class="En_bleu">Le cheval suspicieux 😎🧐🤓🐎</h2>
+<p><img src="https://pbs.twimg.com/media/EmEzURMXUAcw0tj.jpg" alt="Le cheval suspicieux" width="500" height="300" /></p>
+</section>
